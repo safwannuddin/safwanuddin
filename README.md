@@ -1,21 +1,29 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="Developer Animation" width="100%" />
+  <!-- Animated Banner with Glowing Text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=100&lines=🚀+Welcome+to+My+GitHub+Profile!;💻+Full+Stack+Developer+%7C+AI%2FML+Enthusiast;🔥+Crafting+Digital+Experiences+with+Code;🚀+Let's+Build+Something+Amazing+Together" alt="Animated Banner" />
   
-  <h1>Hi there, I'm <a href="https://github.com/safwannuddin" target="_blank">Mohd Safwan Uddin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
-  
-  <h3>Full Stack Developer | ML/AI Enthusiast | Open Source Contributor</h3>
-  
+  <!-- 3D Animated Text -->
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=80&lines=Hi+👋+I'm+Mohd+Safwan+Uddin" alt="Typing SVG" />
+    </a>
+  </h1>
+
+  <!-- Animated Social Badges -->
   <div align="center">
     <a href="https://www.linkedin.com/in/mohd-safwan-uddin-299602257/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/safwannuddin?tab=followers">
-      <img src="https://img.shields.io/github/followers/safwannuddin?label=Follow&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
+      <img src="https://img.shields.io/github/followers/safwannuddin?label=Follow&style=for-the-badge&color=00FF00&labelColor=000000" alt="GitHub Followers" />
     </a>
     <a href="https://komarev.com/ghpvc/?username=safwannuddin">
-      <img src="https://komarev.com/ghpvc/?username=safwannuddin&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=safwannuddin&style=for-the-badge&color=00FF00&label=PROFILE+VIEWS" alt="Profile Views" />
     </a>
   </div>
+  
+  <!-- Cool Divider -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=2000&color=00FF00&center=true&vCenter=true&width=1000&height=50&lines=⚡+Innovate+•+Code+•+Deploy+•+Repeat+⚡" alt="Divider" />
 </div>
 
 ---
@@ -38,34 +46,68 @@ const safwan = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Coding Journey
+
+```python
+while True:
+    code = learn()
+    if code == perfect:
+        break
+    else:
+        improve(code)
+```
 
 <div align="center">
-  <a href="https://github.com/safwannuddin/Zenix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=safwannuddin&repo=Zenix&theme=radical" alt="Zenix" />
-  </a>
-  <a href="https://github.com/safwannuddin/AuthNexus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=safwannuddin&repo=AuthNexus&theme=radical" alt="AuthNexus" />
-  </a>
-  <a href="https://github.com/safwannuddin/NeuroNav">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=safwannuddin&repo=NeuroNav&theme=radical" alt="NeuroNav" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=30&lines=🚀+Building+the+future,+one+commit+at+a+time" alt="Coding Journey" />
 </div>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=safwannuddin&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=safwannuddin&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwannuddin&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/safwannuddin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=safwannuddin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  </a>
+  
+  <!-- GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://streak-stats.demolab.com?user=safwannuddin&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+  
+  <!-- Top Languages Card -->
+  <a href="https://github.com/safwannuddin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwannuddin&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=safwannuddin&theme=radical&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" />
+  <a href="https://github.com/safwannuddin">
+    <img src="https://github-profile-trophy.vercel.app/?username=safwannuddin&theme=radical&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" />
+  </a>
+</div>
+
+## 🐍 My GitHub Contribution Snake!
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/safwannuddin/safwannuddin/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/safwannuddin/safwannuddin/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/safwannuddin/safwannuddin/output/github-contribution-grid-snake.svg" />
+  </picture>
+  
+  <p>Watch my coding journey come to life! 🚀</p>
+  
+  <!-- GitHub Snake Animation -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+  <!-- GitHub Snake Animation with custom theme -->
+  <img src="https://raw.githubusercontent.com/safwannuddin/safwannuddin/output/github-snake-dark.svg" alt="Snake animation" />
+  
+  <p>Every commit is a step forward! 🎯</p>
 </div>
 
 ---
@@ -124,23 +166,29 @@ class AIMLExpert:
         }
 ```
 
-## 🎨 GitHub Contribution Graph
+## 📈 GitHub Activity Graph
 
-<!-- GitHub Readme Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=safwannuddin&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=1f6feb&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <a href="https://github.com/safwannuddin">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=safwannuddin&theme=github-compact&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
 </div>
-
-## 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/safwannuddin/safwannuddin/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📈 GitHub Metrics
+## 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/safwannuddin?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" />
+  <a href="https://github.com/safwannuddin">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safwannuddin&theme=github_dark" alt="GitHub Metrics" />
+  </a>
+  <a href="https://github.com/safwannuddin">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=safwannuddin&theme=github_dark" alt="Most Used Languages" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=safwannuddin&theme=github_dark" alt="Repos Per Language" />
+  </a>
+  <a href="https://github.com/safwannuddin">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safwannuddin&theme=github_dark&utcOffset=8" alt="Productive Time" />
+  </a>
 </div>
 
 ## 🌟 Let's Connect
