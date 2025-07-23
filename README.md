@@ -38,9 +38,7 @@
   <a href="https://www.linkedin.com/in/mohd-safwan-uddin-299602257/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/SynapPay">
-    <img src="https://img.shields.io/badge/-SynapPay-dark?style=flat-square&logo=github"/>
-  </a>
+  
 </p>
 
 ---
