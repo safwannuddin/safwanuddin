@@ -51,7 +51,11 @@ const safwan = {
 
 <div align="center">
   <p>Full-Stack Development ✓ → Machine Learning → Deep Learning → NLP → Computer Vision</p>
-  <img src="https://github.com/safwanuddin/safwanuddin/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/safwanuddin/safwanuddin/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/safwanuddin/safwanuddin/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/safwanuddin/safwanuddin/blob/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -81,16 +85,21 @@ ai_ml_interests = {
 ## 📈 <b>GitHub Stats</b>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=safwanuddin&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=safwanuddin&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=safwanuddin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=safwanuddin&theme=tokyonight&hide_border=true&count_private=true" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwanuddin&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=safwanuddin&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=safwanuddin&theme=discord&no-frame=true&column=7" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=safwanuddin&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
+</div>
+
+<!-- Real-time GitHub Activity Graph -->
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=safwanuddin&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
