@@ -4,13 +4,13 @@
 
 
 Skills: Machine Learning, Deep Learning, NLP, Statistical Analysis, Data Science
-<img align="right" alt="Coding" width="400" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+
 - 🔭 I’m currently working on Data Science Projects 
 - 🌱 I’m currently learning Hadoop, Spark, PowerBI, Tableau
 - 👯 I’m looking to collaborate on Open-Source Projects  
 - 🤔 I’m looking for help with Open-Source Contributors 
 - 💬 Ask me about Data Science 
-- 📫 How to reach me: mohd.mudassiruddin7@gmail.com 
+- 📫 How to reach me: safwanuddin405@gmail.com 
 - ⚡ Fun fact: Numbers don't lie, they reveal!!
 
 
@@ -20,15 +20,7 @@ Skills: Machine Learning, Deep Learning, NLP, Statistical Analysis, Data Science
     <a href="https://github.com/safwannuddin?tab=followers">
       <img src="https://img.shields.io/github/followers/safwannuddin?label=Follow&style=for-the-badge&color=blue" alt="GitHub Followers" />
     </a>
-  </div>
-  
-  <hr style="width:50%;text-align:center;margin:20px auto;border:1px solid #333">
-  
-  <p>🚀 Crafting digital experiences with code</p>
-  <p>💡 Passionate about AI/ML and Web Development</p>
-</div>
 
----
 
 ## 🚀 About Me
 
@@ -65,13 +57,7 @@ while True:
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/safwannuddin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=safwannuddin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  </a>
   
   <!-- GitHub Streak Stats -->
   <a href="https://git.io/streak-stats">
@@ -107,11 +93,7 @@ while True:
     alt="GitHub Streak"
   />
   
-  <p>Total Contributions</p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=safwannuddin&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&line_height=24" 
-    alt="GitHub Stats"
-  />
+  
 </div>
 
 ---
