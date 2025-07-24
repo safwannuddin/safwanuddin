@@ -102,10 +102,7 @@ while True:
   <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
     <a href="https://github.com/safwannuddin">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=safwannuddin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
-        alt="GitHub Stats" 
-        style="max-width: 100%; height: auto;"
-      />
+        
     </a>
     <a href="https://github.com/safwannuddin">
       <img 
