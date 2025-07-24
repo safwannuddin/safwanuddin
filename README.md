@@ -102,10 +102,6 @@ while True:
   <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
     <a href="https://github.com/safwannuddin">
       <img 
-        
-    </a>
-    <a href="https://github.com/safwannuddin">
-      <img 
         src="https://github-readme-streak-stats.herokuapp.com?user=safwannuddin&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
         alt="GitHub Streak"
         style="max-width: 100%; height: auto;"
