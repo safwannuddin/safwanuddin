@@ -1,6 +1,6 @@
 <!-- Header Section with Static Gradient Divider -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3500&pause=500&color=00FF9D&center=true&vCenter=true&width=1100&height=100&lines=Hey+There!+%F0%9F%91%8B;I'm+Mohd+Safwan+Uddin; Data+Science+Enthusiast+%7C+ML+Engineer+%7C+AI+Developer" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3500&pause=500&color=00FF9D&center=true&vCenter=true&width=1100&height=100&lines=Hey+There!+%F0%9F%91%8B;I'm+Mohd+Safwan+Uddin;Data+Science+Enthusiast+%7C+ML+Engineer+%7C+AI+Developer" alt="Animated Typing SVG" />
 
   <!-- Static Gradient Divider (no animation, GitHub-safe) -->
   <div style="background: linear-gradient(90deg, #00F5A0, #00D4FF, #00A2FF, #FF00E6, #FF0080); height: 4px; width: 80%; margin: 20px auto; border-radius: 2px;"></div>
