@@ -162,20 +162,7 @@ class AIMLExpert:
 
 ---
 
-## 📊 GitHub Metrics
 
-<div align="center">
-  <a href="https://github.com/safwannuddin">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safwannuddin&theme=github_dark" alt="GitHub Metrics" />
-  </a>
-  <a href="https://github.com/safwannuddin">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=safwannuddin&theme=github_dark" alt="Most Used Languages" />
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=safwannuddin&theme=github_dark" alt="Repos Per Language" />
-  </a>
-  <a href="https://github.com/safwannuddin">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safwannuddin&theme=github_dark&utcOffset=8" alt="Productive Time" />
-  </a>
-</div>
 
 ## 🌟 Let's Connect
 
