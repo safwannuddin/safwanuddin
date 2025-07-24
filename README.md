@@ -1,11 +1,7 @@
 <div align="center"> <img src='https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif' style="height: 400px;"/> </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Mudassiruddin!!🌐✨;Full-Time+Data+Geek+!!;+I+make+sense+out+of+data+chaos!!;Let+the+madness+begins!!+🎪🤹‍♂️+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Safwan!!🌐✨;Full-Time+Data+Geek+!!;+I+make+sense+out+of+data+chaos!!;Let+the+madness+begins!!+🎪🤹‍♂️+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mudassiruddin7&show_icons=true&count_private=true&hide_border=true&title_color=0066cc&icon_color=f5f5f7&text_color=424245&bg_color=f5f5f7" alt="mudassiruddin7 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassiruddin7&layout=compact&hide_border=true&title_color=0066cc&text_color=424245&bg_color=f5f5f7" />
-</div>
 
 Skills: Machine Learning, Deep Learning, NLP, Statistical Analysis, Data Science
 <img align="right" alt="Coding" width="400" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
@@ -17,11 +13,7 @@ Skills: Machine Learning, Deep Learning, NLP, Statistical Analysis, Data Science
 - 📫 How to reach me: mohd.mudassiruddin7@gmail.com 
 - ⚡ Fun fact: Numbers don't lie, they reveal!!
 
-<div align="center">
-  <h1>Hi there, I'm Mohd Safwan Uddin 👋</h1>
-  <h3>Full Stack Developer | AI/ML Enthusiast</h3>
-  
-  <div>
+
     <a href="https://www.linkedin.com/in/mohd-safwan-uddin-299602257/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
