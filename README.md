@@ -154,15 +154,7 @@ while True:
     </a>
   </div>
   
-  <!-- Snake Animation -->
-  <div style="margin: 30px 0;">
-    <h3>🐍 Contribution Snake</h3>
-    <img 
-      src="https://github.com/safwannuddin/safwannuddin/raw/output/github-contribution-grid-snake.svg" 
-      alt="GitHub Contribution Snake"
-      style="max-width: 100%; height: auto;"
-    />
-  </div>
+
   
   <!-- GitHub Metrics -->
   <div style="margin: 30px 0;">
