@@ -87,15 +87,7 @@ while True:
 
 
   
-  <!-- GitHub Streak Stats - Alternative -->
-  <div style="background: #0d1117; border-radius: 8px; padding: 15px; margin: 15px 0; border: 1px solid #30363d;">
-    <h3>🔥 GitHub Streak</h3>
-    <p>Current Streak: <strong>1+ week</strong> • Longest Streak: <strong>30+ days</strong></p>
-    <div style="background: #161b22; height: 10px; border-radius: 5px; margin: 10px 0; overflow: hidden;">
-      <div style="width: 80%; height: 100%; background: linear-gradient(90deg, #ff6b6b, #ff8e8e);"></div>
-    </div>
-    <p style="font-size: 0.9em; color: #8b949e;">Consistently contributing to open source</p>
-  </div>
+ 
   
   <!-- Top Languages Card -->
   <a href="https://github.com/safwannuddin">
