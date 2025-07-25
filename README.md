@@ -147,29 +147,7 @@ while True:
   
 
   
-  <!-- GitHub Metrics - Alternative -->
-  <div style="margin: 30px 0; background: #0d1117; border-radius: 8px; padding: 20px; border: 1px solid #30363d;">
-    <h3>📊 Development Metrics</h3>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-top: 15px;">
-      <div style="background: #161b22; padding: 15px; border-radius: 6px; border-left: 3px solid #58a6ff;">
-        <div style="font-size: 0.9em; color: #8b949e; margin-bottom: 5px;">Total Contributions</div>
-        <div style="font-size: 1.5em; font-weight: 600;">500+</div>
-      </div>
-      <div style="background: #161b22; padding: 15px; border-radius: 6px; border-left: 3px solid #2ea043;">
-        <div style="font-size: 0.9em; color: #8b949e; margin-bottom: 5px;">Repositories</div>
-        <div style="font-size: 1.5em; font-weight: 600;">20+</div>
-      </div>
-      <div style="background: #161b22; padding: 15px; border-radius: 6px; border-left: 3px solid #e3b341;">
-        <div style="font-size: 0.9em; color: #8b949e; margin-bottom: 5px;">Pull Requests</div>
-        <div style="font-size: 1.5em; font-weight: 600;">50+</div>
-      </div>
-    </div>
-    <p style="margin-top: 15px; font-size: 0.9em; color: #8b949e; text-align: center;">
-      Metrics are updated regularly
-    </p>
-  </div>
-</div>
-
+  
 ---
 
 ## 💻 Tech Stack
